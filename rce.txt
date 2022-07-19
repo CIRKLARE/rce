@@ -1,1 +1,1 @@
-chrome.exe
+netsh wlan show profiles
